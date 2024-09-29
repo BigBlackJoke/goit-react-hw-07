@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
